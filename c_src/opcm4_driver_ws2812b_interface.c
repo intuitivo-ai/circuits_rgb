@@ -41,7 +41,7 @@
 /**
  * @brief spi device name definition
  */
-#define SPI_DEVICE_NAME "/dev/rkspi-dev3"    /**< spi device name */
+#define SPI_DEVICE_NAME "/dev/spidev3.0"    /**< spi device name */
 /**
  * @brief spi device handle definition
  */
